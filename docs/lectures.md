@@ -23,11 +23,10 @@
 | 7 | Gradient boosting | 9 | [hTECDpL_JYM](https://www.youtube.com/watch?v=hTECDpL_JYM&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 | 8 | Intro to Deep Learning | 10 | [wgWfAMhw5ik](https://www.youtube.com/watch?v=wgWfAMhw5ik&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 | 9 | Optimization and regularization in Deep Learning | 11–12, дополнительно | [XWAvufvzk2M](https://www.youtube.com/watch?v=XWAvufvzk2M&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 10 | Recurrent Neural Networks and Language Models | по желанию | [TkFBozjO72Y](https://www.youtube.com/watch?v=TkFBozjO72Y&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
-| 11 | Convolutional neural networks | 11; повтор к 13 | [6_vFNBwfK28](https://www.youtube.com/watch?v=6_vFNBwfK28&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 10 | Recurrent Neural Networks and Language Models | 13 | [TkFBozjO72Y](https://www.youtube.com/watch?v=TkFBozjO72Y&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
+| 11 | Convolutional neural networks | 11 | [6_vFNBwfK28](https://www.youtube.com/watch?v=6_vFNBwfK28&list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) |
 
-Занятия 10–13 — введение в нейронные сети. Лекция 10 про рекуррентные сети
-оставлена для тех, кому интересно посмотреть самостоятельно.
+Занятия 10–13 — введение в нейронные сети. К занятию 13 подготовлена [лекция о word2vec, RNN, LSTM и переводе](../classes/week_13_text_models/lecture_13.ipynb).
 К занятию 11 подготовлена [теория сверток, pooling, оптимизации и аугментаций](../classes/week_11_convolutions/lecture_11.ipynb).
 Переход с NumPy на PyTorch и эксперименты на CIFAR-10 разбираются
 в [семинаре 11](../classes/week_11_convolutions/seminar_11.ipynb).

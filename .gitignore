@@ -16,6 +16,7 @@ mlruns/
 wandb/
 *.ckpt
 *.pt
+!classes/week_13_text_models/data/poet.pt
 
 # решенные версии выкладываются после занятия, отдельным коммитом
 classes/**/*_solved.ipynb
